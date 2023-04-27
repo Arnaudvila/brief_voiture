@@ -26,7 +26,10 @@ Colonnes taille_moteur : [2130 2491 1786 2229 2147 1770 2687 3425 1000 1475 1606
  1295 1803 1819 1950 4228 5342 1491 1147 1311 2294 2196 2999 3835 5047
  4982 1590 1688 1966 2966 2474 3179 3327 2163 1983 2393 2802 2638 2311
  2835 2376]
-Colonnes systeme_carburant : ['mpfi' '2bbl' 'mfi' '1bbl' 'spfi' '4bbl' 'idi' 'spdi']
+Colonnes systeme_carburant : ['Injection de carburant multipoint' '2 barils simple corps'
+ 'Injection de carburant mécanique' '1 baril simple corps'
+ 'Injection de carburant monopoint simplifiée' '4 barils simple corps'
+ 'Injection directe indirecte' 'Injection de carburant monopoint']
 Colonnes alesage : [ 88  68  81  80  89  84  92  74  77  75  85  91  87  90  78  86  96  97
   76  94 100  95  65  83  82]
 Colonnes course : [3. 4. 2.]

@@ -1,0 +1,206 @@
+,type_carburant,aspiration,nombre_portes,type_carrosserie,roues_motrices,emplacement_moteur,empattement,longueur_voiture,largeur_voiture,hauteur_voiture,poids_vide,type_moteur,nombre_cylindres,taille_moteur,systeme_carburant,alesage,course,taux_compression,puissance,trmin_max,consommation_ville,consommation_autoroute,prix,marque,modele
+0,essence,standard,2,décapotable,traction arrière,avant,225.0,429.0,163.0,124.0,1,Double arbre à cames en tête,4,2130,Injection de carburant multipoint,88,3.0,9.0,111,5000,0.0,0.0,11471.0,alfa-romeo,giulia
+1,essence,standard,2,décapotable,traction arrière,avant,225.0,429.0,163.0,124.0,1,Double arbre à cames en tête,4,2130,Injection de carburant multipoint,88,3.0,9.0,111,5000,0.0,0.0,14025.0,alfa-romeo,stelvio
+2,essence,standard,2,à hayon,traction arrière,avant,240.0,435.0,166.0,133.0,1,Arbre à cames en tête avec soupapes en V,6,2491,Injection de carburant multipoint,68,3.0,9.0,154,5000,0.0,0.0,14025.0,alfa-romeo,Quadrifoglio
+3,essence,standard,4,berline,traction avant,avant,253.0,449.0,168.0,138.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,10.0,102,5500,0.0,0.0,11858.0,audi,100 ls
+4,essence,standard,4,berline,quatre roues motrices,avant,252.0,449.0,169.0,138.0,1,Arbre à cames en tête,5,2229,Injection de carburant multipoint,81,3.0,8.0,115,5500,0.0,0.0,14832.0,audi,100ls
+5,essence,standard,2,berline,traction avant,avant,253.0,450.0,168.0,135.0,1,Arbre à cames en tête,5,2229,Injection de carburant multipoint,81,3.0,8.0,110,5500,0.0,0.0,12962.0,audi,fox
+6,essence,standard,4,berline,traction avant,avant,269.0,489.0,181.0,141.0,1,Arbre à cames en tête,5,2229,Injection de carburant multipoint,81,3.0,8.0,110,5500,0.0,0.0,15054.0,audi,100ls
+7,essence,standard,4,break,traction avant,avant,269.0,489.0,181.0,141.0,1,Arbre à cames en tête,5,2229,Injection de carburant multipoint,81,3.0,8.0,110,5500,0.0,0.0,16082.0,audi,5000
+8,essence,turbocharged,4,berline,traction avant,avant,269.0,489.0,181.0,142.0,1,Arbre à cames en tête,5,2147,Injection de carburant multipoint,80,3.0,8.0,140,5500,0.0,0.0,20294.0,audi,4000
+9,essence,turbocharged,2,à hayon,quatre roues motrices,avant,253.0,453.0,172.0,132.0,1,Arbre à cames en tête,5,2147,Injection de carburant multipoint,80,3.0,7.0,160,5500,0.0,0.0,15180.0,audi,5000s (diesel)
+10,essence,standard,2,berline,traction arrière,avant,257.0,449.0,165.0,138.0,1,Arbre à cames en tête,4,1770,Injection de carburant multipoint,89,3.0,9.0,101,5800,0.0,0.0,13966.0,bmw,320i
+11,essence,standard,4,berline,traction arrière,avant,257.0,449.0,165.0,138.0,1,Arbre à cames en tête,4,1770,Injection de carburant multipoint,89,3.0,9.0,101,5800,0.0,0.0,14386.0,bmw,320i
+12,essence,standard,2,berline,traction arrière,avant,257.0,449.0,165.0,138.0,1,Arbre à cames en tête,6,2687,Injection de carburant multipoint,84,3.0,9.0,121,4250,0.0,0.0,17824.0,bmw,x1
+13,essence,standard,4,berline,traction arrière,avant,257.0,449.0,165.0,138.0,1,Arbre à cames en tête,6,2687,Injection de carburant multipoint,84,3.0,9.0,121,4250,0.0,0.0,17939.0,bmw,x3
+14,essence,standard,4,berline,traction arrière,avant,263.0,480.0,170.0,141.0,1,Arbre à cames en tête,6,2687,Injection de carburant multipoint,84,3.0,9.0,121,4250,0.0,0.0,20880.0,bmw,z4
+15,essence,standard,4,berline,traction arrière,avant,263.0,480.0,170.0,141.0,1,Arbre à cames en tête,6,3425,Injection de carburant multipoint,92,3.0,8.0,182,5400,0.0,0.0,26146.0,bmw,x4
+16,essence,standard,2,berline,traction arrière,avant,263.0,492.0,172.0,136.0,2,Arbre à cames en tête,6,3425,Injection de carburant multipoint,92,3.0,8.0,182,5400,0.0,0.0,35118.0,bmw,x5
+17,essence,standard,4,berline,traction arrière,avant,279.0,500.0,180.0,143.0,2,Arbre à cames en tête,6,3425,Injection de carburant multipoint,92,3.0,8.0,182,5400,0.0,0.0,31348.0,bmw,x3
+18,essence,standard,2,à hayon,traction avant,avant,225.0,358.0,153.0,135.0,1,En ligne,3,1000,2 barils simple corps,74,3.0,10.0,48,5100,0.0,0.0,4378.0,chevrolet,impala
+19,essence,standard,2,à hayon,traction avant,avant,240.0,396.0,162.0,132.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,77,3.0,10.0,70,5400,0.0,0.0,5351.0,chevrolet,monte carlo
+20,essence,standard,4,berline,traction avant,avant,240.0,403.0,162.0,132.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,77,3.0,10.0,70,5400,0.0,0.0,5589.0,chevrolet,vega 2300
+21,essence,standard,2,à hayon,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,4736.0,dodge,rampage
+22,essence,standard,2,à hayon,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,5420.0,dodge,challenger se
+23,essence,turbocharged,2,à hayon,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1606,Injection de carburant multipoint,77,3.0,8.0,102,5500,0.0,0.0,6763.0,dodge,d200
+24,essence,standard,4,à hayon,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,5295.0,dodge,monaco (sw)
+25,essence,standard,4,berline,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,5688.0,dodge,colt hardtop
+26,essence,standard,4,berline,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,6468.0,dodge,colt (sw)
+27,essence,turbocharged,2,berline,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1606,Injection de carburant multipoint,77,3.0,8.0,102,5500,0.0,0.0,7274.0,dodge,coronet custom
+28,essence,standard,4,break,traction avant,avant,262.0,443.0,164.0,152.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,85,3.0,8.0,88,5000,0.0,0.0,7583.0,dodge,dart custom
+29,essence,turbocharged,2,à hayon,traction avant,avant,244.0,440.0,168.0,128.0,1,Arbre à cames en tête,4,2556,Injection de carburant mécanique,91,4.0,7.0,145,5000,0.0,0.0,11019.0,dodge,coronet custom (sw)
+30,essence,standard,2,à hayon,traction avant,avant,220.0,367.0,162.0,129.0,1,Arbre à cames en tête,4,1508,1 baril simple corps,74,3.0,10.0,58,4800,0.0,0.0,5507.0,honda,civic
+31,essence,standard,2,à hayon,traction avant,avant,220.0,367.0,162.0,129.0,1,Arbre à cames en tête,4,1508,1 baril simple corps,74,3.0,9.0,76,6000,0.0,0.0,5827.0,honda,civic cvcc
+32,essence,standard,2,à hayon,traction avant,avant,238.0,381.0,163.0,134.0,1,Arbre à cames en tête,4,1295,1 baril simple corps,74,3.0,10.0,60,5500,0.0,0.0,4589.0,honda,civic
+33,essence,standard,2,à hayon,traction avant,avant,238.0,381.0,163.0,134.0,1,Arbre à cames en tête,4,1508,1 baril simple corps,74,3.0,9.0,76,6000,0.0,0.0,5550.0,honda,accord cvcc
+34,essence,standard,2,à hayon,traction avant,avant,238.0,381.0,163.0,134.0,1,Arbre à cames en tête,4,1508,1 baril simple corps,74,3.0,9.0,76,6000,0.0,0.0,6060.0,honda,civic cvcc
+35,essence,standard,4,berline,traction avant,avant,245.0,415.0,163.0,138.0,1,Arbre à cames en tête,4,1508,1 baril simple corps,74,3.0,9.0,76,6000,0.0,0.0,6201.0,honda,accord lx
+36,essence,standard,4,break,traction avant,avant,245.0,399.0,162.0,148.0,1,Arbre à cames en tête,4,1508,1 baril simple corps,74,3.0,9.0,76,6000,0.0,0.0,6201.0,honda,civic 1500 gl
+37,essence,standard,2,à hayon,traction avant,avant,245.0,425.0,166.0,135.0,1,Arbre à cames en tête,4,1803,1 baril simple corps,80,4.0,9.0,86,5800,0.0,0.0,6711.0,honda,accord
+38,essence,standard,2,à hayon,traction avant,avant,245.0,425.0,166.0,135.0,1,Arbre à cames en tête,4,1803,1 baril simple corps,80,4.0,9.0,86,5800,0.0,0.0,7731.0,honda,civic 1300
+39,essence,standard,4,berline,traction avant,avant,245.0,446.0,166.0,137.0,1,Arbre à cames en tête,4,1803,1 baril simple corps,80,4.0,9.0,86,5800,0.0,0.0,7518.0,honda,prelude
+40,essence,standard,4,berline,traction avant,avant,245.0,446.0,159.0,137.0,1,Arbre à cames en tête,4,1803,1 baril simple corps,80,4.0,9.0,86,5800,0.0,0.0,8751.0,honda,accord
+41,essence,standard,4,berline,traction avant,avant,245.0,446.0,166.0,137.0,1,Arbre à cames en tête,4,1803,Injection de carburant multipoint,80,4.0,9.0,101,5800,0.0,0.0,11003.0,honda,civic
+42,essence,standard,2,berline,traction avant,avant,245.0,430.0,168.0,130.0,1,Arbre à cames en tête,4,1803,2 barils simple corps,80,4.0,9.0,100,5500,0.0,0.0,8793.0,honda,civic (auto)
+43,essence,standard,4,berline,traction arrière,avant,240.0,434.0,157.0,136.0,1,Arbre à cames en tête,4,1819,2 barils simple corps,84,3.0,8.0,78,4800,0.0,0.0,5767.0,isuzu,MU-X
+44,essence,standard,2,berline,traction avant,avant,240.0,396.0,162.0,132.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,77,3.0,10.0,70,5400,0.0,0.0,7579.0,isuzu,D-Max 
+45,essence,standard,4,berline,traction avant,avant,240.0,396.0,162.0,132.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,77,3.0,10.0,70,5400,0.0,0.0,7579.0,isuzu,D-Max V-Cross
+46,essence,standard,2,à hayon,traction arrière,avant,244.0,438.0,166.0,131.0,1,Arbre à cames en tête,4,1950,Injection de carburant monopoint simplifiée,87,3.0,9.0,90,5000,0.0,0.0,9391.0,isuzu,D-Max 
+47,essence,standard,4,berline,traction arrière,avant,287.0,507.0,177.0,134.0,2,Double arbre à cames en tête,6,4228,Injection de carburant multipoint,92,4.0,8.0,176,4750,0.0,0.0,27412.0,jaguar,xj
+48,essence,standard,4,berline,traction arrière,avant,287.0,507.0,177.0,134.0,2,Double arbre à cames en tête,6,4228,Injection de carburant multipoint,92,4.0,8.0,176,4750,0.0,0.0,30218.0,jaguar,xf
+49,essence,standard,2,berline,traction arrière,avant,259.0,487.0,179.0,121.0,2,Arbre à cames en tête avec soupapes en V,12,5342,Injection de carburant multipoint,90,3.0,12.0,262,5000,0.0,0.0,30600.0,jaguar,xk
+50,essence,standard,2,à hayon,traction avant,avant,236.0,404.0,163.0,137.0,1,Arbre à cames en tête,4,1491,2 barils simple corps,77,3.0,9.0,68,5000,0.0,0.0,4416.0,mazda,rx3
+51,essence,standard,2,à hayon,traction avant,avant,236.0,404.0,163.0,137.0,1,Arbre à cames en tête,4,1491,2 barils simple corps,77,3.0,9.0,68,5000,0.0,0.0,5181.0,mazda,glc deluxe
+52,essence,standard,2,à hayon,traction avant,avant,236.0,404.0,163.0,137.0,1,Arbre à cames en tête,4,1491,2 barils simple corps,77,3.0,9.0,68,5000,0.0,0.0,5776.0,mazda,rx2 coupe
+53,essence,standard,4,berline,traction avant,avant,236.0,424.0,163.0,137.0,1,Arbre à cames en tête,4,1491,2 barils simple corps,77,3.0,9.0,68,5000,0.0,0.0,5691.0,mazda,rx-4
+54,essence,standard,4,berline,traction avant,avant,236.0,424.0,163.0,137.0,1,Arbre à cames en tête,4,1491,2 barils simple corps,78,3.0,9.0,68,5000,0.0,0.0,6286.0,mazda,glc deluxe
+55,essence,standard,2,à hayon,traction arrière,avant,242.0,429.0,167.0,126.0,1,Moteur rotatif,2,1147,4 barils simple corps,85,3.0,9.0,101,6000,0.0,0.0,9303.0,mazda,626
+56,essence,standard,2,à hayon,traction arrière,avant,242.0,429.0,167.0,126.0,1,Moteur rotatif,2,1147,4 barils simple corps,85,3.0,9.0,101,6000,0.0,0.0,10068.0,mazda,glc
+57,essence,standard,2,à hayon,traction arrière,avant,242.0,429.0,167.0,126.0,1,Moteur rotatif,2,1147,4 barils simple corps,85,3.0,9.0,101,6000,0.0,0.0,11598.0,mazda,rx-7 gs
+58,essence,standard,2,à hayon,traction arrière,avant,242.0,429.0,167.0,126.0,1,Moteur rotatif,2,1311,Injection de carburant multipoint,85,3.0,9.0,135,6000,0.0,0.0,13298.0,mazda,glc 4
+59,essence,standard,2,à hayon,traction avant,avant,251.0,452.0,169.0,136.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,86,3.0,9.0,84,4800,0.0,0.0,7518.0,mazda,626
+60,essence,standard,4,berline,traction avant,avant,251.0,452.0,169.0,141.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,86,3.0,9.0,84,4800,0.0,0.0,7221.0,mazda,glc custom l
+61,essence,standard,2,à hayon,traction avant,avant,251.0,452.0,169.0,136.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,86,3.0,9.0,84,4800,0.0,0.0,9006.0,mazda,glc custom
+62,essence,standard,4,berline,traction avant,avant,251.0,452.0,169.0,141.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,86,3.0,9.0,84,4800,0.0,0.0,8708.0,mazda,rx-4
+63,diesel,standard,4,berline,traction avant,avant,251.0,452.0,169.0,141.0,1,Arbre à cames en tête,4,1999,Injection directe indirecte,86,3.0,23.0,64,4650,0.0,0.0,9176.0,mazda,glc deluxe
+64,essence,standard,4,à hayon,traction avant,avant,251.0,452.0,169.0,141.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,86,3.0,9.0,84,4800,0.0,0.0,9558.0,mazda,626
+65,essence,standard,4,berline,traction arrière,avant,266.0,444.0,168.0,138.0,1,Arbre à cames en tête,4,2294,Injection de carburant multipoint,96,3.0,8.0,120,5000,0.0,0.0,15538.0,mazda,glc
+66,diesel,standard,4,berline,traction arrière,avant,266.0,444.0,168.0,138.0,1,Arbre à cames en tête,4,2196,Injection directe indirecte,87,4.0,22.0,72,4200,0.0,0.0,15592.0,mazda,rx-7 gs
+67,diesel,turbocharged,4,berline,traction arrière,avant,279.0,485.0,179.0,144.0,2,Arbre à cames en tête,5,2999,Injection directe indirecte,91,4.0,22.0,123,4350,0.0,0.0,21719.0,buick,electra 225 custom
+68,diesel,turbocharged,4,break,traction arrière,avant,279.0,485.0,179.0,149.0,2,Arbre à cames en tête,5,2999,Injection directe indirecte,91,4.0,22.0,123,4350,0.0,0.0,24011.0,buick,century luxus (sw)
+69,diesel,turbocharged,2,coupé,traction arrière,avant,271.0,476.0,179.0,139.0,2,Arbre à cames en tête,5,2999,Injection directe indirecte,91,4.0,22.0,123,4350,0.0,0.0,23950.0,buick,century
+70,diesel,turbocharged,4,berline,traction arrière,avant,294.0,515.0,182.0,143.0,2,Arbre à cames en tête,5,2999,Injection directe indirecte,91,4.0,22.0,123,4350,0.0,0.0,26860.0,buick,skyhawk
+71,essence,standard,4,berline,traction arrière,avant,294.0,515.0,182.0,144.0,2,Arbre à cames en tête avec soupapes en V,8,3835,Injection de carburant multipoint,88,3.0,8.0,155,4750,0.0,0.0,29056.0,buick,opel isuzu deluxe
+72,essence,standard,2,décapotable,traction arrière,avant,245.0,458.0,179.0,129.0,2,Arbre à cames en tête avec soupapes en V,8,3835,Injection de carburant multipoint,88,3.0,8.0,155,4750,0.0,0.0,29798.0,buick,skylark
+73,essence,standard,4,berline,traction arrière,avant,307.0,529.0,182.0,144.0,2,Arbre à cames en tête avec soupapes en V,8,5047,Injection de carburant multipoint,97,3.0,8.0,184,4500,0.0,0.0,34816.0,buick,century special
+74,essence,standard,2,coupé,traction arrière,avant,284.0,506.0,183.0,141.0,2,Arbre à cames en tête avec soupapes en V,8,4982,Injection de carburant multipoint,97,3.0,8.0,184,4500,0.0,0.0,38590.0,buick,regal sport coupe (turbo)
+75,essence,turbocharged,2,à hayon,traction arrière,avant,261.0,453.0,173.0,139.0,1,Arbre à cames en tête,4,2294,Injection de carburant multipoint,96,3.0,8.0,175,5000,0.0,0.0,14028.0,mercury,cougar
+76,essence,standard,2,à hayon,traction avant,avant,238.0,400.0,164.0,129.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,4581.0,mitsubishi,mirage
+77,essence,standard,2,à hayon,traction avant,avant,238.0,400.0,164.0,129.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,5261.0,mitsubishi,lancer
+78,essence,standard,2,à hayon,traction avant,avant,238.0,400.0,164.0,129.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,5669.0,mitsubishi,outlander
+79,essence,turbocharged,2,à hayon,traction avant,avant,236.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1606,Injection de carburant monopoint,77,3.0,8.0,102,5500,0.0,0.0,6536.0,mitsubishi,g4
+80,essence,turbocharged,2,à hayon,traction avant,avant,245.0,439.0,166.0,125.0,1,Arbre à cames en tête,4,1803,Injection de carburant monopoint,81,3.0,8.0,116,5500,0.0,0.0,8465.0,mitsubishi,mirage g4
+81,essence,standard,2,à hayon,traction avant,avant,245.0,439.0,166.0,125.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,85,3.0,8.0,88,5000,0.0,0.0,7224.0,mitsubishi,g4
+82,essence,turbocharged,2,à hayon,traction avant,avant,244.0,440.0,168.0,128.0,1,Arbre à cames en tête,4,2556,Injection de carburant monopoint,91,4.0,7.0,145,5000,0.0,0.0,10735.0,mitsubishi,outlander
+83,essence,turbocharged,2,à hayon,traction avant,avant,244.0,440.0,168.0,128.0,1,Arbre à cames en tête,4,2556,Injection de carburant monopoint,91,4.0,7.0,145,5000,0.0,0.0,12639.0,mitsubishi,g4
+84,essence,turbocharged,2,à hayon,traction avant,avant,244.0,440.0,168.0,128.0,1,Arbre à cames en tête,4,2556,Injection de carburant monopoint,91,4.0,7.0,145,5000,0.0,0.0,12316.0,mitsubishi,mirage g4
+85,essence,standard,4,berline,traction avant,avant,245.0,438.0,166.0,131.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,85,3.0,8.0,88,5000,0.0,0.0,5941.0,mitsubishi,montero
+86,essence,standard,4,berline,traction avant,avant,245.0,438.0,166.0,131.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,85,3.0,8.0,88,5000,0.0,0.0,6961.0,mitsubishi,pajero
+87,essence,turbocharged,4,berline,traction avant,avant,245.0,438.0,166.0,131.0,1,Arbre à cames en tête,4,1803,Injection de carburant monopoint,81,3.0,8.0,116,5500,0.0,0.0,7887.0,mitsubishi,outlander
+88,essence,standard,4,berline,traction avant,avant,245.0,438.0,166.0,131.0,1,Arbre à cames en tête,4,1803,Injection de carburant monopoint,81,3.0,8.0,116,5500,0.0,0.0,7887.0,mitsubishi,mirage g4
+89,essence,standard,2,berline,traction avant,avant,240.0,420.0,162.0,138.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,4674.0,nissan,versa
+90,diesel,standard,2,berline,traction avant,avant,240.0,420.0,162.0,138.0,1,Arbre à cames en tête,4,1688,Injection directe indirecte,76,3.0,22.0,55,4800,0.0,0.0,6034.0,nissan,gt-r
+91,essence,standard,2,berline,traction avant,avant,240.0,420.0,162.0,138.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,5652.0,nissan,rogue
+92,essence,standard,4,berline,traction avant,avant,240.0,420.0,162.0,138.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,5822.0,nissan,latio
+93,essence,standard,4,break,traction avant,avant,240.0,432.0,162.0,136.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,6247.0,nissan,titan
+94,essence,standard,2,berline,traction avant,avant,240.0,420.0,162.0,138.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,6204.0,nissan,leaf
+95,essence,standard,2,à hayon,traction avant,avant,240.0,421.0,162.0,135.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,6629.0,nissan,juke
+96,essence,standard,4,berline,traction avant,avant,240.0,420.0,162.0,138.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,6374.0,nissan,latio
+97,essence,standard,4,break,traction avant,avant,240.0,432.0,162.0,136.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,6799.0,nissan,note
+98,essence,standard,2,coupé,traction avant,avant,242.0,412.0,162.0,135.0,1,Arbre à cames en tête,4,1590,2 barils simple corps,80,3.0,9.0,69,5200,0.0,0.0,7012.0,nissan,clipper
+99,essence,standard,4,à hayon,traction avant,avant,247.0,440.0,166.0,139.0,1,Arbre à cames en tête,4,1966,2 barils simple corps,85,3.0,8.0,97,5200,0.0,0.0,7607.0,nissan,rogue
+100,essence,standard,4,berline,traction avant,avant,247.0,440.0,166.0,139.0,1,Arbre à cames en tête,4,1966,2 barils simple corps,85,3.0,8.0,97,5200,0.0,0.0,8117.0,nissan,nv200
+101,essence,standard,4,berline,traction avant,avant,255.0,462.0,169.0,140.0,1,Arbre à cames en tête avec soupapes en V,6,2966,Injection de carburant multipoint,87,3.0,9.0,152,5200,0.0,0.0,11474.0,nissan,dayz
+102,essence,standard,4,break,traction avant,avant,255.0,469.0,169.0,142.0,1,Arbre à cames en tête avec soupapes en V,6,2966,Injection de carburant multipoint,87,3.0,9.0,152,5200,0.0,0.0,12239.0,nissan,fuga
+103,essence,standard,4,berline,traction avant,avant,255.0,469.0,169.0,140.0,1,Arbre à cames en tête avec soupapes en V,6,2966,Injection de carburant multipoint,87,3.0,9.0,152,5200,0.0,0.0,11474.0,nissan,otti
+104,essence,standard,2,à hayon,traction arrière,avant,232.0,434.0,172.0,126.0,1,Arbre à cames en tête avec soupapes en V,6,2966,Injection de carburant multipoint,87,3.0,9.0,160,5200,0.0,0.0,14619.0,nissan,teana
+105,essence,turbocharged,2,à hayon,traction arrière,avant,232.0,434.0,172.0,126.0,1,Arbre à cames en tête avec soupapes en V,6,2966,Injection de carburant multipoint,87,3.0,8.0,200,5200,0.0,0.0,16744.0,nissan,kicks
+106,essence,standard,2,à hayon,traction arrière,avant,252.0,453.0,172.0,126.0,1,Arbre à cames en tête avec soupapes en V,6,2966,Injection de carburant multipoint,87,3.0,9.0,160,5200,0.0,0.0,15639.0,nissan,clipper
+107,essence,standard,4,berline,traction arrière,avant,274.0,474.0,174.0,144.0,1,En ligne,4,1966,Injection de carburant multipoint,88,3.0,8.0,97,5000,0.0,0.0,10115.0,peugeot,504
+108,diesel,turbocharged,4,berline,traction arrière,avant,274.0,474.0,174.0,144.0,1,En ligne,4,2491,Injection directe indirecte,94,4.0,21.0,95,4150,0.0,0.0,11220.0,peugeot,304
+109,essence,standard,4,break,traction arrière,avant,290.0,505.0,174.0,149.0,1,En ligne,4,1966,Injection de carburant multipoint,88,3.0,8.0,97,5000,0.0,0.0,10574.0,peugeot,504 (sw)
+110,diesel,turbocharged,4,break,traction arrière,avant,290.0,505.0,174.0,149.0,2,En ligne,4,2491,Injection directe indirecte,94,4.0,21.0,95,4150,0.0,0.0,11781.0,peugeot,504
+111,essence,standard,4,berline,traction arrière,avant,274.0,474.0,174.0,144.0,1,En ligne,4,1966,Injection de carburant multipoint,88,2.0,8.0,95,5000,0.0,0.0,13243.0,peugeot,504
+112,diesel,turbocharged,4,berline,traction arrière,avant,274.0,474.0,174.0,144.0,1,En ligne,4,2491,Injection directe indirecte,94,4.0,21.0,95,4150,0.0,0.0,14365.0,peugeot,604sl
+113,essence,standard,4,break,traction arrière,avant,290.0,505.0,174.0,144.0,1,En ligne,4,1966,Injection de carburant multipoint,88,2.0,8.0,95,5000,0.0,0.0,14191.0,peugeot,504
+114,diesel,turbocharged,4,break,traction arrière,avant,290.0,505.0,174.0,149.0,2,En ligne,4,2491,Injection directe indirecte,94,4.0,21.0,95,4150,0.0,0.0,14514.0,peugeot,505s turbo diesel
+115,essence,standard,4,berline,traction arrière,avant,274.0,474.0,174.0,144.0,1,En ligne,4,1966,Injection de carburant multipoint,88,3.0,8.0,97,5000,0.0,0.0,14136.0,peugeot,504
+116,diesel,turbocharged,4,berline,traction arrière,avant,274.0,474.0,174.0,144.0,1,En ligne,4,2491,Injection directe indirecte,94,4.0,21.0,95,4150,0.0,0.0,15258.0,peugeot,504
+117,essence,turbocharged,4,berline,traction arrière,avant,274.0,474.0,173.0,142.0,1,En ligne,4,2196,Injection de carburant multipoint,92,3.0,7.0,142,5600,0.0,0.0,15428.0,peugeot,604sl
+118,essence,standard,2,à hayon,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,4736.0,plymouth,fury iii
+119,essence,turbocharged,2,à hayon,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1606,Injection de carburant monopoint,77,3.0,8.0,102,5500,0.0,0.0,6763.0,plymouth,cricket
+120,essence,standard,4,à hayon,traction avant,avant,238.0,400.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,5295.0,plymouth,fury iii
+121,essence,standard,4,berline,traction avant,avant,238.0,425.0,162.0,129.0,1,Arbre à cames en tête,4,1475,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,5688.0,plymouth,satellite custom (sw)
+122,essence,standard,4,berline,traction avant,avant,238.0,425.0,162.0,129.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,75,3.0,9.0,68,5500,0.0,0.0,6468.0,plymouth,fury gran sedan
+123,essence,standard,4,break,traction avant,avant,262.0,443.0,164.0,152.0,1,Arbre à cames en tête,4,1999,2 barils simple corps,85,3.0,8.0,88,5000,0.0,0.0,7583.0,plymouth,valiant
+124,essence,turbocharged,2,à hayon,traction arrière,avant,244.0,440.0,168.0,128.0,1,Arbre à cames en tête,4,2556,Injection de carburant monopoint,91,4.0,7.0,145,5000,0.0,0.0,10849.0,plymouth,duster
+125,essence,standard,2,à hayon,traction arrière,avant,240.0,429.0,173.0,128.0,1,Arbre à cames en tête,4,2474,Injection de carburant multipoint,100,3.0,10.0,143,5500,0.0,0.0,18715.0,porsche,macan
+126,essence,standard,2,coupé,traction arrière,arrière,227.0,429.0,165.0,131.0,1,Arbre à cames en tête avec soupapes en F,6,3179,Injection de carburant multipoint,95,3.0,10.0,207,5900,0.0,0.0,27649.0,porsche,panamera
+127,essence,standard,2,coupé,traction arrière,arrière,227.0,429.0,165.0,131.0,1,Arbre à cames en tête avec soupapes en F,6,3179,Injection de carburant multipoint,95,3.0,10.0,207,5900,0.0,0.0,28924.0,porsche,cayenne
+128,essence,standard,2,décapotable,traction arrière,arrière,227.0,429.0,165.0,131.0,1,Arbre à cames en tête avec soupapes en F,6,3179,Injection de carburant multipoint,95,3.0,10.0,207,5900,0.0,0.0,31474.0,porsche,boxter
+129,essence,standard,2,à hayon,traction arrière,avant,250.0,446.0,184.0,128.0,2,Double arbre à cames en tête avec soupapes en V,8,3327,Injection de carburant multipoint,100,3.0,10.0,288,5750,0.0,0.0,26690.0,porsche,cayenne
+130,essence,standard,4,break,traction avant,avant,244.0,461.0,169.0,140.0,1,Arbre à cames en tête,4,2163,Injection de carburant multipoint,88,4.0,9.0,90,5100,0.0,0.0,7901.0,renault,12tl
+131,essence,standard,2,à hayon,traction avant,avant,244.0,449.0,169.0,128.0,1,Arbre à cames en tête,4,2163,Injection de carburant multipoint,88,4.0,9.0,90,5100,0.0,0.0,8411.0,renault,5 gtl
+132,essence,standard,2,à hayon,traction avant,avant,252.0,474.0,169.0,142.0,1,Arbre à cames en tête,4,1983,Injection de carburant multipoint,90,3.0,9.0,110,5250,0.0,0.0,10072.0,saab,99e
+133,essence,standard,4,berline,traction avant,avant,252.0,474.0,169.0,142.0,1,Arbre à cames en tête,4,1983,Injection de carburant multipoint,90,3.0,9.0,110,5250,0.0,0.0,10344.0,saab,99le
+134,essence,standard,2,à hayon,traction avant,avant,252.0,474.0,169.0,142.0,1,Arbre à cames en tête,4,1983,Injection de carburant multipoint,65,2.0,9.0,110,5250,0.0,0.0,12784.0,saab,99le
+135,essence,standard,4,berline,traction avant,avant,252.0,474.0,169.0,142.0,1,Arbre à cames en tête,4,1983,Injection de carburant multipoint,90,3.0,9.0,110,5250,0.0,0.0,13184.0,saab,99gle
+136,essence,turbocharged,2,à hayon,traction avant,avant,252.0,474.0,169.0,142.0,1,Double arbre à cames en tête,4,1983,Injection de carburant multipoint,90,3.0,9.0,160,5500,0.0,0.0,15428.0,saab,99gle
+137,essence,turbocharged,4,berline,traction avant,avant,252.0,474.0,169.0,142.0,1,Double arbre à cames en tête,4,1983,Injection de carburant multipoint,90,3.0,9.0,160,5500,0.0,0.0,15827.0,saab,99e
+138,essence,standard,2,à hayon,traction avant,avant,238.0,399.0,161.0,136.0,1,Arbre à cames en tête avec soupapes en F,4,1590,2 barils simple corps,92,2.0,9.0,69,4900,0.0,0.0,4350.0,subaru,
+139,essence,standard,2,à hayon,traction avant,avant,238.0,401.0,162.0,136.0,1,Arbre à cames en tête avec soupapes en F,4,1770,2 barils simple corps,92,3.0,9.0,73,4400,0.0,0.0,5995.0,subaru,dl
+140,essence,standard,2,à hayon,quatre roues motrices,avant,237.0,400.0,162.0,141.0,1,Arbre à cames en tête avec soupapes en F,4,1770,2 barils simple corps,92,3.0,9.0,73,4400,0.0,0.0,6463.0,subaru,dl
+141,essence,standard,4,berline,traction avant,avant,247.0,437.0,166.0,133.0,1,Arbre à cames en tête avec soupapes en F,4,1770,2 barils simple corps,92,3.0,10.0,82,4800,0.0,0.0,6057.0,subaru,
+142,essence,standard,4,berline,traction avant,avant,247.0,437.0,166.0,133.0,1,Arbre à cames en tête avec soupapes en F,4,1770,2 barils simple corps,92,3.0,10.0,82,4400,0.0,0.0,6609.0,subaru,brz
+143,essence,standard,4,berline,traction avant,avant,247.0,437.0,166.0,133.0,1,Arbre à cames en tête avec soupapes en F,4,1770,Injection de carburant multipoint,92,3.0,9.0,94,5200,0.0,0.0,8466.0,subaru,baja
+144,essence,standard,4,berline,quatre roues motrices,avant,246.0,437.0,166.0,138.0,1,Arbre à cames en tête avec soupapes en F,4,1770,2 barils simple corps,92,3.0,9.0,82,4800,0.0,0.0,7848.0,subaru,r1
+145,essence,turbocharged,4,berline,quatre roues motrices,avant,246.0,437.0,166.0,138.0,1,Arbre à cames en tête avec soupapes en F,4,1770,Injection de carburant multipoint,92,3.0,8.0,111,4800,0.0,0.0,9570.0,subaru,r2
+146,essence,standard,4,break,traction avant,avant,246.0,441.0,166.0,135.0,1,Arbre à cames en tête avec soupapes en F,4,1770,2 barils simple corps,92,3.0,9.0,82,4800,0.0,0.0,6344.0,subaru,trezia
+147,essence,standard,4,break,traction avant,avant,246.0,441.0,166.0,135.0,1,Arbre à cames en tête avec soupapes en F,4,1770,Injection de carburant multipoint,92,3.0,9.0,94,5200,0.0,0.0,8668.0,subaru,tribeca
+148,essence,standard,4,break,quatre roues motrices,avant,246.0,441.0,166.0,139.0,1,Arbre à cames en tête avec soupapes en F,4,1770,2 barils simple corps,92,3.0,9.0,82,4800,0.0,0.0,6811.0,subaru,dl
+149,essence,turbocharged,4,break,quatre roues motrices,avant,246.0,441.0,166.0,139.0,1,Arbre à cames en tête avec soupapes en F,4,1770,Injection de carburant multipoint,92,3.0,8.0,111,4800,0.0,0.0,9940.0,subaru,dl
+150,essence,standard,2,à hayon,traction avant,avant,243.0,403.0,162.0,138.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,77,3.0,9.0,62,4800,0.0,0.0,4546.0,toyota,corona mark ii
+151,essence,standard,2,à hayon,traction avant,avant,243.0,403.0,162.0,138.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,77,3.0,9.0,62,4800,0.0,0.0,5387.0,toyota,corona
+152,essence,standard,4,à hayon,traction avant,avant,243.0,403.0,162.0,138.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,77,3.0,9.0,62,4800,0.0,0.0,5515.0,toyota,corolla 1200
+153,essence,standard,4,break,traction avant,avant,243.0,431.0,162.0,150.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,77,3.0,9.0,62,4800,0.0,0.0,5880.0,toyota,corona hardtop
+154,essence,standard,4,break,quatre roues motrices,avant,243.0,431.0,162.0,150.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,77,3.0,9.0,62,4800,0.0,0.0,6713.0,toyota,corolla 1600 (sw)
+155,essence,standard,4,break,quatre roues motrices,avant,243.0,431.0,162.0,150.0,1,Arbre à cames en tête,4,1508,2 barils simple corps,77,3.0,9.0,62,4800,0.0,0.0,7461.0,toyota,carina
+156,essence,standard,4,berline,traction avant,avant,243.0,422.0,164.0,135.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,81,3.0,9.0,70,4800,0.0,0.0,5897.0,toyota,mark ii
+157,essence,standard,4,à hayon,traction avant,avant,243.0,422.0,164.0,134.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,81,3.0,9.0,70,4800,0.0,0.0,6118.0,toyota,corolla 1200
+158,diesel,standard,4,berline,traction avant,avant,243.0,422.0,164.0,135.0,1,Arbre à cames en tête,4,1803,Injection directe indirecte,83,3.0,22.0,56,4500,0.0,0.0,6713.0,toyota,corona
+159,diesel,standard,4,à hayon,traction avant,avant,243.0,422.0,164.0,134.0,1,Arbre à cames en tête,4,1803,Injection directe indirecte,83,3.0,22.0,56,4500,0.0,0.0,6620.0,toyota,corolla
+160,essence,standard,4,berline,traction avant,avant,243.0,422.0,164.0,135.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,81,3.0,9.0,70,4800,0.0,0.0,6577.0,toyota,corona
+161,essence,standard,4,à hayon,traction avant,avant,243.0,422.0,164.0,134.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,81,3.0,9.0,70,4800,0.0,0.0,7104.0,toyota,corolla
+162,essence,standard,4,berline,traction avant,avant,243.0,422.0,164.0,134.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,81,3.0,9.0,70,4800,0.0,0.0,7869.0,toyota,mark ii
+163,essence,standard,2,berline,traction arrière,avant,240.0,428.0,163.0,134.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,81,3.0,9.0,70,4800,0.0,0.0,6849.0,toyota,corolla liftback
+164,essence,standard,2,à hayon,traction arrière,avant,240.0,428.0,163.0,134.0,1,Arbre à cames en tête,4,1606,2 barils simple corps,81,3.0,9.0,70,4800,0.0,0.0,7002.0,toyota,corona
+165,essence,standard,2,berline,traction arrière,avant,240.0,428.0,163.0,134.0,1,Double arbre à cames en tête,4,1606,Injection de carburant multipoint,82,3.0,9.0,112,6600,0.0,0.0,7903.0,toyota,celica gt liftback
+166,essence,standard,2,à hayon,traction arrière,avant,240.0,428.0,163.0,134.0,1,Double arbre à cames en tête,4,1606,Injection de carburant multipoint,82,3.0,9.0,112,6600,0.0,0.0,8107.0,toyota,corolla tercel
+167,essence,standard,2,coupé,traction arrière,avant,250.0,448.0,167.0,132.0,1,Arbre à cames en tête,4,2393,Injection de carburant multipoint,92,4.0,9.0,116,4800,0.0,0.0,7182.0,toyota,corona liftback
+168,essence,standard,2,coupé,traction arrière,avant,250.0,448.0,167.0,132.0,1,Arbre à cames en tête,4,2393,Injection de carburant multipoint,92,4.0,9.0,116,4800,0.0,0.0,8193.0,toyota,corolla
+169,essence,standard,2,à hayon,traction arrière,avant,250.0,448.0,167.0,132.0,1,Arbre à cames en tête,4,2393,Injection de carburant multipoint,92,4.0,9.0,116,4800,0.0,0.0,8491.0,toyota,starlet
+170,essence,standard,2,coupé,traction arrière,avant,250.0,448.0,167.0,132.0,1,Arbre à cames en tête,4,2393,Injection de carburant multipoint,92,4.0,9.0,116,4800,0.0,0.0,9519.0,toyota,tercel
+171,essence,standard,2,à hayon,traction arrière,avant,250.0,448.0,167.0,132.0,1,Arbre à cames en tête,4,2393,Injection de carburant multipoint,92,4.0,9.0,116,4800,0.0,0.0,9817.0,toyota,corolla
+172,essence,standard,2,décapotable,traction arrière,avant,250.0,448.0,167.0,135.0,1,Arbre à cames en tête,4,2393,Injection de carburant multipoint,92,4.0,9.0,116,4800,0.0,0.0,15019.0,toyota,cressida
+173,essence,standard,4,berline,traction avant,avant,260.0,446.0,169.0,139.0,1,Arbre à cames en tête,4,1999,Injection de carburant multipoint,84,4.0,9.0,92,4200,0.0,0.0,7606.0,toyota,corolla
+174,diesel,turbocharged,4,berline,traction avant,avant,260.0,446.0,169.0,139.0,1,Arbre à cames en tête,4,1803,Injection directe indirecte,83,3.0,22.0,73,4500,0.0,0.0,9093.0,toyota,celica gt
+175,essence,standard,4,à hayon,traction avant,avant,260.0,446.0,169.0,137.0,1,Arbre à cames en tête,4,1999,Injection de carburant multipoint,84,4.0,9.0,92,4200,0.0,0.0,8490.0,toyota,corona
+176,essence,standard,4,berline,traction avant,avant,260.0,446.0,169.0,139.0,1,Arbre à cames en tête,4,1999,Injection de carburant multipoint,84,4.0,9.0,92,4200,0.0,0.0,9263.0,toyota,corolla
+177,essence,standard,4,à hayon,traction avant,avant,260.0,446.0,169.0,137.0,1,Arbre à cames en tête,4,1999,Injection de carburant multipoint,84,4.0,9.0,92,4200,0.0,0.0,9561.0,toyota,mark ii
+178,essence,standard,2,à hayon,traction arrière,avant,261.0,466.0,172.0,132.0,1,Double arbre à cames en tête,6,2802,Injection de carburant multipoint,83,3.0,9.0,161,5200,0.0,0.0,14074.0,toyota,corolla liftback
+179,essence,standard,2,à hayon,traction arrière,avant,261.0,466.0,172.0,132.0,1,Double arbre à cames en tête,6,2802,Injection de carburant multipoint,83,3.0,9.0,161,5200,0.0,0.0,13598.0,toyota,corona
+180,essence,standard,4,berline,traction arrière,avant,265.0,477.0,169.0,137.0,1,Double arbre à cames en tête,6,2802,Injection de carburant multipoint,83,3.0,9.0,156,5200,0.0,0.0,13336.0,toyota,starlet
+181,essence,standard,4,break,traction arrière,avant,265.0,477.0,169.0,137.0,1,Double arbre à cames en tête,6,2638,Injection de carburant multipoint,83,3.0,9.0,156,5200,0.0,0.0,13388.0,toyota,tercel
+182,diesel,standard,2,berline,traction avant,avant,247.0,436.0,166.0,141.0,1,Arbre à cames en tête,4,1590,Injection directe indirecte,76,3.0,23.0,52,4800,0.0,0.0,6609.0,volkswagen,rabbit
+183,essence,standard,2,berline,traction avant,avant,247.0,436.0,166.0,141.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,9.0,85,5250,0.0,0.0,6779.0,volkswagen,1131 deluxe sedan
+184,diesel,standard,4,berline,traction avant,avant,247.0,436.0,166.0,141.0,1,Arbre à cames en tête,4,1590,Injection directe indirecte,76,3.0,23.0,52,4800,0.0,0.0,6796.0,volkswagen,model 111
+185,essence,standard,4,berline,traction avant,avant,247.0,436.0,166.0,141.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,9.0,85,5250,0.0,0.0,6966.0,volkswagen,type 3
+186,essence,standard,4,berline,traction avant,avant,247.0,436.0,166.0,141.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,9.0,85,5250,0.0,0.0,7221.0,volkswagen,411 (sw)
+187,diesel,turbocharged,4,berline,traction avant,avant,247.0,436.0,166.0,141.0,1,Arbre à cames en tête,4,1590,Injection directe indirecte,76,3.0,23.0,68,4500,0.0,0.0,8071.0,volkswagen,super beetle
+188,essence,standard,4,berline,traction avant,avant,247.0,436.0,166.0,141.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,10.0,100,5500,0.0,0.0,8496.0,volkswagen,dasher
+189,essence,standard,2,décapotable,traction avant,avant,240.0,405.0,163.0,141.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,8.0,90,5500,0.0,0.0,9856.0,volkswagen,dasher
+190,essence,standard,2,à hayon,traction avant,avant,240.0,421.0,163.0,131.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,8.0,90,5500,0.0,0.0,8483.0,volkswagen,rabbit
+191,essence,standard,4,berline,traction avant,avant,255.0,458.0,170.0,140.0,1,Arbre à cames en tête,5,2229,Injection de carburant multipoint,81,3.0,8.0,110,5500,0.0,0.0,11301.0,volkswagen,rabbit
+192,diesel,turbocharged,4,berline,traction avant,avant,255.0,458.0,170.0,140.0,1,Arbre à cames en tête,4,1590,Injection directe indirecte,76,3.0,23.0,68,4500,0.0,0.0,11768.0,volkswagen,rabbit custom
+193,essence,standard,4,break,traction avant,avant,255.0,465.0,170.0,140.0,1,Arbre à cames en tête,4,1786,Injection de carburant multipoint,81,3.0,9.0,88,5500,0.0,0.0,10446.0,volkswagen,dasher
+194,essence,standard,4,berline,traction arrière,avant,265.0,480.0,171.0,143.0,1,Arbre à cames en tête,4,2311,Injection de carburant multipoint,96,3.0,10.0,114,5400,0.0,0.0,10999.0,volvo,145e (sw)
+195,essence,standard,4,break,traction arrière,avant,265.0,480.0,171.0,146.0,1,Arbre à cames en tête,4,2311,Injection de carburant multipoint,96,3.0,10.0,114,5400,0.0,0.0,11403.0,volvo,144ea
+196,essence,standard,4,berline,traction arrière,avant,265.0,480.0,171.0,143.0,1,Arbre à cames en tête,4,2311,Injection de carburant multipoint,96,3.0,10.0,114,5400,0.0,0.0,13587.0,volvo,244dl
+197,essence,standard,4,break,traction arrière,avant,265.0,480.0,171.0,146.0,1,Arbre à cames en tête,4,2311,Injection de carburant multipoint,96,3.0,10.0,114,5400,0.0,0.0,14038.0,volvo,245
+198,essence,turbocharged,4,berline,traction arrière,avant,265.0,480.0,171.0,143.0,1,Arbre à cames en tête,4,2130,Injection de carburant multipoint,92,3.0,8.0,162,5100,0.0,0.0,15657.0,volvo,264gl
+199,essence,turbocharged,4,break,traction arrière,avant,265.0,480.0,171.0,146.0,1,Arbre à cames en tête,4,2130,Injection de carburant multipoint,92,3.0,8.0,162,5100,0.0,0.0,16108.0,volvo,diesel
+200,essence,standard,4,berline,traction arrière,avant,277.0,480.0,175.0,141.0,1,Arbre à cames en tête,4,2311,Injection de carburant multipoint,96,3.0,10.0,114,5400,0.0,0.0,14318.0,volvo,145e (sw)
+201,essence,turbocharged,4,berline,traction arrière,avant,277.0,480.0,175.0,141.0,1,Arbre à cames en tête,4,2311,Injection de carburant multipoint,96,3.0,9.0,160,5300,0.0,0.0,16188.0,volvo,144ea
+202,essence,standard,4,berline,traction arrière,avant,277.0,480.0,175.0,141.0,1,Arbre à cames en tête avec soupapes en V,6,2835,Injection de carburant multipoint,91,3.0,9.0,134,5500,0.0,0.0,18262.0,volvo,244dl
+203,diesel,turbocharged,4,berline,traction arrière,avant,277.0,480.0,175.0,141.0,1,Arbre à cames en tête,6,2376,Injection directe indirecte,76,3.0,23.0,106,4800,0.0,0.0,19100.0,volvo,246
+204,essence,turbocharged,4,berline,traction arrière,avant,277.0,480.0,175.0,141.0,1,Arbre à cames en tête,4,2311,Injection de carburant multipoint,96,3.0,10.0,114,5400,0.0,0.0,19231.0,volvo,264gl

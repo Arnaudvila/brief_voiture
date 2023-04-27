@@ -1,6 +1,6 @@
 Colonnes type_carburant : ['essence' 'diesel']
 Colonnes aspiration : ['standard' 'turbocharged']
-Colonnes nombre_portes : ['deux' 'quatre']
+Colonnes nombre_portes : ['2' '4']
 Colonnes type_carrosserie : ['décapotable' 'à hayon' 'berline' 'break' 'coupé']
 Colonnes roues_motrices : ['traction arrière' 'traction avant' 'quatre roues motrices']
 Colonnes emplacement_moteur : ['avant' 'arrière']
@@ -21,7 +21,7 @@ Colonnes type_moteur : ['Double arbre à cames en tête' 'Arbre à cames en têt
  'Arbre à cames en tête' 'En ligne' 'Moteur rotatif'
  'Arbre à cames en tête avec soupapes en F'
  'Double arbre à cames en tête avec soupapes en V']
-Colonnes nombre_cylindres : ['quatre' 'six' 'cinq' 'trois' 'douze' 'deux' 'huit']
+Colonnes nombre_cylindres : ['4' '6' '5' '3' '12' '2' '8']
 Colonnes taille_moteur : [2130 2491 1786 2229 2147 1770 2687 3425 1000 1475 1606 1999 2556 1508
  1295 1803 1819 1950 4228 5342 1491 1147 1311 2294 2196 2999 3835 5047
  4982 1590 1688 1966 2966 2474 3179 3327 2163 1983 2393 2802 2638 2311

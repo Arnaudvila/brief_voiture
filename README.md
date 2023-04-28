@@ -32,7 +32,7 @@ L'application sera accessible à l'adresse http://localhost:8501.
 #
 Le modèle utilisé pour la prédiction est un RandomForestRegressor entraîné sur un ensemble de données contenant des informations sur les voitures et leurs prix. Les données ont été nettoyées et prétraitées avant d'être utilisées pour l'entraînement. Le modèle a été optimisé en utilisant une recherche sur grille (GridSearchCV) pour trouver les meilleurs hyperparamètres.
 
-Le modèle entraîné est stocké dans le fichier 
+Le modèle entraîné est stocké dans le fichier :
 ```bash 
 data/best_model.pkl. 
 ```

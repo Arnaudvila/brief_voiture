@@ -1,4 +1,4 @@
-# Mon application de prédiction des prix des voitures
+# CarValueScope (CVS): Comprehensive Vehicle Assessment & Revenue Estimation System
 
 Cette application est conçue pour prédire les prix des voitures en fonction de leurs caractéristiques. L'application utilise un modèle de régression pour prédire le prix en fonction de différentes caractéristiques telles que la marque, le modèle, le type de carburant, la taille du moteur, la puissance, etc.
 
